@@ -4,6 +4,12 @@ IBB ECODATION JAVA CORE
 [Intellij Idea Community](https://www.jetbrains.com/idea/download/?section=mac)
 [Git](https://git-scm.com/downloads)
 
+#Git
 ```sh
+git init
+git add .
+git commit -m "add message"
+git push -u origin master
+git 
 ```
 ---
