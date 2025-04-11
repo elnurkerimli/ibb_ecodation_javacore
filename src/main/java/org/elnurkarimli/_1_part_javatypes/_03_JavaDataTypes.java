@@ -1,9 +1,9 @@
 package org.elnurkarimli._1_part_javatypes;
 
-public class _02_JavaDataTypes {
+public class _03_JavaDataTypes {
     public static void main(String[] args) {
 
-        // Primitive Types: 8 tanedir. null değer alamazsınız.
+        // Veri değişken isimlerini yazarken;
 
         // tam sayılar (4)
         byte b1=127;
